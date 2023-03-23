@@ -1,0 +1,8 @@
+
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/RalewayRomanRegular.ttf"); font-family : "Raleway"; font-weight : 400;  }
+ @font-face { font-display: swap; font-style : bold; src: url("assets/fonts/RalewayBold.ttf"); font-family : "Raleway"; font-weight : 700;  }
+ @font-face { font-display: swap; font-style : bold; src: url("assets/fonts/RalewayRomanLight.ttf"); font-family : "Raleway"; font-weight : 300;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/AlmaraiRegular.ttf"); font-family : "Almarai"; font-weight : 400;  }
+ @font-face { font-display: swap; font-style : bold; src: url("assets/fonts/RalewayRomanBold.ttf"); font-family : "Raleway"; font-weight : 700;  }
+ @font-face { font-display: swap; font-style : bold; src: url("assets/fonts/RalewaySemiBold.ttf"); font-family : "Raleway"; font-weight : 600;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/PoppinsRegular.ttf"); font-family : "Poppins"; font-weight : 400;  }
